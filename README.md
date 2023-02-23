@@ -54,4 +54,3 @@ filtros de línea telefónica, para eliminar las señales de alta frecuencia de 
 
 - FLOYD, THOMAS L.Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007
 - BOYLESTAD, ROBERT L. Introducción al análisis de circuitos. PEARSON EDUCACIÓN, México, 2004
-- Hosted by www.Geocities.ws
