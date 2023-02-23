@@ -15,13 +15,13 @@ una calculadora virtual o física, teniendo en cuenta el concepto de fasores; pa
 
 ***Especificos*** 
 
-* Usar números complejos para expresar cantidades fasoriales*
+*Usar números complejos para expresar cantidades fasoriales*
 
-*Verificar el comportamiento de la bobina y el capacitor en circuitos AC*
+*Determinar que transformación es más fácil usar al momento de realizar las operaciones*
 
-*Verificar las combinaciones serie y paralelo de bobinas y capacitores*
+*Familiarizarse con conceptos básicos que engloben el tema de fasores*
 
-*Familiarizarse con el uso de instrumentos de medida*
+*Conocer la importancia y la aplicación de fasores en circuitos eléctricos de ca*
 
 ### 2. MARCO TEÓRICO
 
