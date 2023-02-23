@@ -10,11 +10,12 @@
 
 ***General***
 
-*Entender el funcionamiento de inductores y capacitores armando circuitos en el simulador Dcaclab verificando su comportamiento , de modo que se empleen los conocimientos adquiridos en clase*
+*Realizar operaciones aritméticas con números complejos, tanto en su forma polar como rectangular; mediante cálculos de froma analítica y simulada en 
+una calculadora virtual o física, teniendo en cuenta el concepto de fasores; para realizar conversiones y operaciones con números complejos*
 
 ***Especificos*** 
 
-*Verificar el comportamiento de la bobina y el capacitor en circuitos DC*
+* Usar números complejos para expresar cantidades fasoriales*
 
 *Verificar el comportamiento de la bobina y el capacitor en circuitos AC*
 
