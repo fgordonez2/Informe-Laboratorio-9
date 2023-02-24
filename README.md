@@ -99,8 +99,15 @@ d)
 
 
 
-
 ### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+**Para el cálculo de error se tomo en cuenta los valores calculados o tomados analíticamente y se los comparo con los valores simulados en computador.**
+
+![image](https://user-images.githubusercontent.com/116774906/221196922-e397c632-ede6-4ffe-8ef0-3506a93619e6.png)
+
+**Ejemplificación con el primer ejercicio**
+
+![image](https://user-images.githubusercontent.com/116774906/221197036-95c41efe-0131-4d8b-9327-ef663ce997b1.png)
 
 
 ### 5. VIDEO
