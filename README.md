@@ -52,7 +52,7 @@ una calculadora virtual o física, teniendo en cuenta el concepto de fasores; pa
 
 ### 5. VIDEO
 
-
+- https://youtu.be/W0zUTPx643E
 
 ### 6. CONCLUSIONES
 
