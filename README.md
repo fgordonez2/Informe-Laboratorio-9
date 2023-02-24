@@ -57,6 +57,9 @@ una calculadora virtual o física, teniendo en cuenta el concepto de fasores; pa
 
 ![image](https://user-images.githubusercontent.com/116705680/221164088-788c809f-4c85-4f93-9dfe-56b774d70b44.png)
 
+![image](https://user-images.githubusercontent.com/104925648/221190911-2d3b95d2-de63-4606-a6c2-6e34d3aa80da.png)
+
+
 
 ### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
