@@ -86,6 +86,17 @@ a)
 
 b)
 
+![image](https://user-images.githubusercontent.com/104925648/221194978-b9fcd553-f79c-4337-ac19-ce0e79a5300e.png)
+
+c)
+
+![image](https://user-images.githubusercontent.com/104925648/221195014-6facafd5-4848-4103-aa04-0c50f627d931.png)
+
+d)
+
+![image](https://user-images.githubusercontent.com/104925648/221195083-4fc2591e-6424-45c4-a9ba-df212edcb914.png)
+
+
 
 
 
