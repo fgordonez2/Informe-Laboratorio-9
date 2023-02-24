@@ -80,6 +80,13 @@ d)
 
 ![image](https://user-images.githubusercontent.com/116774906/221193836-6e934b58-1b4f-48b1-bdae-15bf69de8985.png)
 
+a) 
+
+![image](https://user-images.githubusercontent.com/104925648/221194366-fb10b951-9d5c-4f84-881f-0c2fe23b058f.png)
+
+b)
+
+
 
 
 ### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
