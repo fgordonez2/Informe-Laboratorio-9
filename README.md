@@ -56,17 +56,14 @@ una calculadora virtual o física, teniendo en cuenta el concepto de fasores; pa
 
 ### 6. CONCLUSIONES
 
-- *Se logró verificar de manera correcta el comportamiento de los capacitores e inductores en conjunto con una resistencia para los 
-circuitos con DC y AC, mediante la toma de mediciones de voltaje y analizando la onda sinusoidal con respecto a valores pico, tiempo, periódo y ciclo.*
+*-La importancia que tiene los números complejos en la expresión de cantidades fasoriales es la de encontrar una mejor comprensión de lectura, mediante el empleo de números reales e imaginarios para representar al fasor que es un vector que es utilizado para representar la magnitud y fase angular de una onda sinusoidal.*
 
-- *Se pudo usar el osciloscopio y multímetro, de manera que se genró las ondas que se requerían, además se logró identificar capacitores e 
-inductancias en serie o paralelo.*
+*-Se pudo concluir que el uso tanto de las cantidades fasoriales en su forma cartesiana o rectangular y polar, se hace más fácil su uso en diferentes momentos, ya que para nuestra comprensión el manejo de cantidades fasoriales en su forma rectangular resulta mucho más fácil y comprensivo.* 
 
-- *Para este laboratorio fue importante tener precisión a la hora trabajar con el simulador de dcaclab ya que este presentaba 
-inconvenientes y en ciertas ocasiones no arrojaba los valores exactos o precisos que debería dar.*
+*-El uso de fasores en circuitos de corriente alterna son muy habituales y sirven para describir el movimiento de un oscilador.*
 
-- *Inductores y capacitores se utilizan en circuitos de audio para filtrar o amplificar frecuencias específicas. Se utilizan como 
-filtros de línea telefónica, para eliminar las señales de alta frecuencia de banda ancha y se colocan en los extremos de los cables de señal para reducir el ruido.*
+*-El desarrollo de los ejercicios propuestos se los realizo de forma manual con un cierto grado de complicación, pero eso ayuda a tener una mejor comprensión del tema y también se tiene mejor familiarización con los conceptos básicos, pero el uso de calculadoras también fue importante y más rápido claro si se sabe manejar completamente.*
+
 
 ### 7._ BIBLIOGRAFÍA
 
