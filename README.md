@@ -57,7 +57,14 @@ una calculadora virtual o física, teniendo en cuenta el concepto de fasores; pa
 
 ![image](https://user-images.githubusercontent.com/116705680/221164088-788c809f-4c85-4f93-9dfe-56b774d70b44.png)
 
+- a) 2+3j
+
 ![image](https://user-images.githubusercontent.com/104925648/221190911-2d3b95d2-de63-4606-a6c2-6e34d3aa80da.png)
+
+-b) -8+6.2j
+
+![image](https://user-images.githubusercontent.com/104925648/221191234-f67a1979-c912-43a7-90fd-aaa08702c1f9.png)
+
 
 
 
