@@ -25,6 +25,17 @@ una calculadora virtual o física, teniendo en cuenta el concepto de fasores; pa
 
 ### 2. MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/104925648/221188003-90a63df8-12d3-487b-9525-0da8c1531bc4.png)
+
+![image](https://user-images.githubusercontent.com/104925648/221188037-575dfc7d-df04-4646-97c6-2fa5467811bb.png)
+
+![image](https://user-images.githubusercontent.com/104925648/221188063-74864ba5-d58c-405c-8667-dc1254f8f945.png)
+
+![image](https://user-images.githubusercontent.com/104925648/221188096-875d9d94-f890-4e77-b30e-d24a144d28c1.png)
+
+![image](https://user-images.githubusercontent.com/104925648/221188133-4f5e29f4-c67c-4b67-a78d-bbd91d061f57.png)
+
+![image](https://user-images.githubusercontent.com/104925648/221188204-74f8f03e-3520-40e0-afcc-e45aaaf256de.png)
 
 ### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
