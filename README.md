@@ -28,6 +28,23 @@ una calculadora virtual o física, teniendo en cuenta el concepto de fasores; pa
 
 ### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+![image](https://user-images.githubusercontent.com/116705680/221159678-50b902e7-ac16-464f-b3ae-331ee709d0a0.png)
+
+![image](https://user-images.githubusercontent.com/116705680/221159743-ad4e20f1-05dc-48d0-a42b-c319bbae4756.png)
+
+![image](https://user-images.githubusercontent.com/116705680/221159768-41ec2eac-9d4f-443e-a518-a03ef2912b3d.png)
+
+![image](https://user-images.githubusercontent.com/116705680/221159824-c85925a3-2554-4840-a51d-e7c581a83ed1.png)
+
+![image](https://user-images.githubusercontent.com/116705680/221159876-61b7b56f-a0c4-4f4a-b875-91bc195ceb15.png)
+
+![image](https://user-images.githubusercontent.com/116705680/221159906-a9998131-2d98-47ad-bf46-ef62e124f8f2.png)
+
+![image](https://user-images.githubusercontent.com/116705680/221159948-ec0b102b-4704-4520-96af-2f43585ae44b.png)
+
+![image](https://user-images.githubusercontent.com/116705680/221159986-b75ca46d-02db-4952-a304-aef7113631f0.png)
+
+![image](https://user-images.githubusercontent.com/116705680/221160023-588d9417-6eca-441f-9012-d9c0bf23b5e7.png)
 
 
 ### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
