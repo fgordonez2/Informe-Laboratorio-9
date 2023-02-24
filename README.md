@@ -63,7 +63,18 @@ una calculadora virtual o física, teniendo en cuenta el concepto de fasores; pa
 
 -b) -8+6.2j
 
-![image](https://user-images.githubusercontent.com/104925648/221191234-f67a1979-c912-43a7-90fd-aaa08702c1f9.png)
+![image](https://user-images.githubusercontent.com/104925648/221191487-dcc5a206-2bc5-4d5c-8139-403b303fc30d.png)
+
+-c) 4.3-2.8j
+
+![image](https://user-images.githubusercontent.com/104925648/221191903-a4631689-cdfa-47b3-ba14-f3b7a4733da6.png)
+
+-d) -6-3.2j
+
+![image](https://user-images.githubusercontent.com/104925648/221192070-5b9a0f3d-2860-4af3-bae6-85261b295df3.png)
+
+
+
 
 
 
