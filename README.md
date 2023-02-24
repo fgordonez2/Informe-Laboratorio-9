@@ -61,6 +61,24 @@ una calculadora virtual o física, teniendo en cuenta el concepto de fasores; pa
 
 ![image](https://user-images.githubusercontent.com/116774906/221190612-b3791aa7-de09-4b55-b5ea-f0b9c9e3a700.png)
 
+a) 
+
+![image](https://user-images.githubusercontent.com/104925648/221193336-6e353b45-5ff4-46f6-841c-55d1784cb0b4.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/104925648/221193424-1e10e57d-aa56-4ee5-b987-bbe14cae4217.png)
+
+c)
+
+![image](https://user-images.githubusercontent.com/104925648/221193473-852e84fe-b9cf-41af-ab93-31fb4c74a37b.png)
+
+d) 
+
+![image](https://user-images.githubusercontent.com/104925648/221193580-0e2193b8-55e8-4d84-bf49-9cc9c3b9b4c0.png)
+
+
+
 
 
 ### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
