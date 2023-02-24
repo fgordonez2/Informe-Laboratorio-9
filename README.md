@@ -57,25 +57,9 @@ una calculadora virtual o física, teniendo en cuenta el concepto de fasores; pa
 
 ![image](https://user-images.githubusercontent.com/116705680/221164088-788c809f-4c85-4f93-9dfe-56b774d70b44.png)
 
-- a) 2+3j
+**Utilizando calculadora resuelva los ejercicios anteriores**
 
-![image](https://user-images.githubusercontent.com/104925648/221190911-2d3b95d2-de63-4606-a6c2-6e34d3aa80da.png)
-
--b) -8+6.2j
-
-![image](https://user-images.githubusercontent.com/104925648/221191487-dcc5a206-2bc5-4d5c-8139-403b303fc30d.png)
-
--c) 4.3-2.8j
-
-![image](https://user-images.githubusercontent.com/104925648/221191903-a4631689-cdfa-47b3-ba14-f3b7a4733da6.png)
-
--d) -6-3.2j
-
-![image](https://user-images.githubusercontent.com/104925648/221192070-5b9a0f3d-2860-4af3-bae6-85261b295df3.png)
-
-
-
-
+![image](https://user-images.githubusercontent.com/116774906/221190612-b3791aa7-de09-4b55-b5ea-f0b9c9e3a700.png)
 
 
 
